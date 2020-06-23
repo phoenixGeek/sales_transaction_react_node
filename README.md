@@ -74,4 +74,4 @@ See [LICENSE](LICENSE)
 
 
 
-Thsi repo is used for inserting 25% sales tax on all transactions!!!!!!!!!!!!!!!!!!
+This repo is used for inserting 25% sales tax on all transactions!!!!!!!!!!!!!!!!!!
